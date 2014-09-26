@@ -20,5 +20,4 @@ Vos commentaires sont toujours bien venus.
 
 A bientôt donc.
 
-Sophie    
-  
+Sophie

@@ -1,4 +1,4 @@
 +++
-Description = "à la recherche du haricot magique"
+Description = ""
 menu = "main"
 +++

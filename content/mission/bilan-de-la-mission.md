@@ -1,8 +1,6 @@
-# Le bilan et évaluation de la mission. l #
-
+# Le bilan et évaluation de la mission.#
 
 ## A Togbota ##
-
 
 
 ----------

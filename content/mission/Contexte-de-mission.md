@@ -12,12 +12,9 @@ La vente de cette production doit garantir aux femmes des ressources susceptible
 ----------
 ## A Hanyigba ##
 
-Pour celles eu ceux qui se souviennent, nous chanterons là *Planter ....café, c'est aps pour les gens fragiles, y a qu'à s'baisser mais c'est ça qui est difficile!*
+Pour celles eu ceux qui se souviennent, nous chanterons là *Planter ....café, c'est pas pour les gens fragiles, y a qu'à s'baisser mais c'est ça qui est difficile!*
 
 Blague à part , depuis décembre 2013, les toilettes sèches sont construites, la coopérative a fini son deuxième exercice, une amorce de pisciculture serait née, une ruche en place et un projet d'élevage de poulets complèterait la diversité de l'outil économique.
 
 Pour les mordus voici le lien qui vous ramène au rapport de mission fait en ce début 2014,
-[http://www.urgenceafrique.org/sites/default/files/temoignages-rapports-files/11.2013_rapport_mission_developpement_economique_sophie_b_0.pdf](http://www.urgenceafrique.org/sites/default/files/temoignages-rapports-files/11.2013_rapport_mission_developpement_economique_sophie_b_0.pdf)
-
-.
-
+[11.2013_rapport_mission_developpement_economique_sophie_b_0.pdf](http://www.urgenceafrique.org/sites/default/files/temoignages-rapports-files/11.2013_rapport_mission_developpement_economique_sophie_b_0.pdf)

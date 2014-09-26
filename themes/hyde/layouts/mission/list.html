@@ -1,0 +1,13 @@
+{{ template "theme/chrome/head.html" . }}
+<body>
+{{ template "theme/chrome/sidebar.html" . }}
+<div class="content container">
+  <ul class="mission">
+      {{ range .Data.Pages }}
+      <li><span><a href="{{ .Permalink }}">{{ .Title }}</a>/h4></span></li>
+      {{ end }}
+  </ul>
+    </div>
+
+  </body>
+</html>
