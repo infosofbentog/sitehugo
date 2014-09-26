@@ -1,4 +1,6 @@
-# Un petit mot  #
++++
+title="Un petit mot"
++++
 
 Pour celles et ceux qui s'en souviennent, la venue de l'automne m'invite à retrouver MON chemin de l'école, celui de repartir, de me retrouver dans cet environnement source et porteur de sens et d'énergie: l' Afrique.
 Quitter cet écrin occidental, quoiqu'on en dise, douillet, nanti, serein, pérenne et sécurisé.

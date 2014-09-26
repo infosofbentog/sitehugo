@@ -1,6 +1,7 @@
 baseurl = "http://infosofbentog.github.io"
 languageCode = "fr-fr"
 title = "Automne en Afrique"
+theme = "hyde"
 [indexes]
    Catégorie = "Catégories"
 [params]
