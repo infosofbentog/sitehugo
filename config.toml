@@ -1,0 +1,7 @@
+baseurl = "http://infosofbentog.github.io"
+languageCode = "fr-fr"
+title = "Automne en Afrique"
+[indexes]
+   Catégorie = "Catégories"
+[params]
+  Description= "à la recherche du haricot magique"

@@ -1,0 +1,25 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>{{ .Site.Title }}</h1>
+      <p class="lead">
+      {{ with .Site.Params.Description }} {{.}} {{ else }}An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.{{end}}
+      </p>
+    </div>
+
+    <ul class="sidebar-nav">
+	  <li><a href="/mission/Un-mot">un mot</a> </li>
+	  <li><a href="/mission/Urgence-Afrique">asso urgence afrique</a> </li>
+	  <li><a href="/mission/Togbota-au-Benin">togbota au bénin</a> </li>
+	  <li><a href="/mission/Hanyigba-au-Togo">hanyigba au togo</a> </li>
+	  <li><a href="/mission/Contexte-de-mission">contexte de la mission</a> </li>
+	  <li><a href="/mission/Le-deroulement-de-mission">deroulement de la mission</a> </li>
+	  <li><a href="/mission/bilan-de-la-mission">bilan de la mission</a> </li>
+      {{ range .Site.Menus.main }}
+        <li><a href="{{.Url}}"> {{ .Name }} </a></li>
+      {{end}}
+    </ul>
+
+    <p>{{ with .Site.Params.Copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. {{end}}</p>
+  </div>
+</div>
