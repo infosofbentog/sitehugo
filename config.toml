@@ -3,6 +3,6 @@ languageCode = "fr-fr"
 title = "Automne en Afrique"
 theme = "hyde"
 [indexes]
-   Catégorie = "Catégories"
+   Rubrique = "Rubriques"
 [params]
   Description= "à la recherche du haricot magique"
