@@ -7,6 +7,12 @@
       </p>
     </div>
 
+	<ul id="all-tags">
+	  {{ range $name, $taxonomy := .Site.Taxonomies.rubriques }}
+	    <li><a href="/rubriques/{{ $name | urlize }}">{{ $name }}</a></li>  
+	  {{ end }}
+	</ul>
+
     <ul class="sidebar-nav">
 	  <li><a href="/mission/Un-mot">un mot</a> </li>
 	  <li><a href="/mission/Urgence-Afrique">asso urgence afrique</a> </li>
