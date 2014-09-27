@@ -9,10 +9,10 @@ YYYY-MM-JJT00:00:00:00
 Retirer les rubriques en trop
 
 Pour ajouter une photo :
-1 / ouvrir la photo
+1/ ouvrir la photo
 2/ faire une capture avec greenshot (icone G)
-3 / choisir un nom sans espace ni accent
-4 / replacer le texte et le nom dans l'exemple ci-dessous :
+3/ Enregistrer dans static et choisir un nom sans espace ni accent
+4/ replacer le texte et le nom dans l'exemple ci-dessous :
 5/ copier la ligne dans l'article (avec le !)
 
 ![de belles tulipes](/Tulips.jpg)
