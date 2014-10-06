@@ -1,7 +1,8 @@
 +++
+date = "2014-09-27T00:00:00+02:00"
 title="Un petit mot"
+rubriques =["Actualités"]
 +++
-
 Pour celles et ceux qui s'en souviennent, la venue de l'automne m'invite à retrouver MON chemin de l'école, celui de repartir, de me retrouver dans cet environnement source et porteur de sens et d'énergie: l' Afrique.
 Quitter cet écrin occidental, quoiqu'on en dise, douillet, nanti, serein, pérenne et sécurisé.
 Epurer un instant mon "biotope" , chasser de la main les parasites, médias, stress, agressions, publicités, excès de consommation, tentations fébriles, flashs, lumières, factures, mails inutiles,............ générateurs de doutes, d'angoisse, de perte de conscience de ce qu'est l'essentiel. 
