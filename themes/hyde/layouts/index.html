@@ -8,9 +8,9 @@
 	Articles made in Bénin & Togo by Sophie B. qui lit dès que possible vos commentaires !
 	
       {{ range .Data.Pages.GroupBy "Section" }}
-	  <h3>{{ .Key }}</h3>
+	  <h3>{{ .Key }} (8 derniers)</h3>
 	  <ul>
-	  {{ range .Pages }}
+	  {{ range first 8 .Pages }}
       <li><span><a href="{{ .Permalink }}">{{ .Title }}</a><time class="pull-right post-list"> {{ if eq .Section "articles" }} {{.Date.Format "2 Jan 2006" }} {{end}}</h4></time></span></span></li>
       {{ end }}
 	  </ul>
