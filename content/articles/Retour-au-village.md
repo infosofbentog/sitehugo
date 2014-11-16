@@ -1,7 +1,7 @@
 +++
 date = "2014-11-03T00:00:00+02:00"
 title = "Un retour au village"
-rubriques =["Actualites"]
+rubriques =["Actualités"]
 +++
 Et oui émotion assurée, quand on revient au village après 1 an.
 

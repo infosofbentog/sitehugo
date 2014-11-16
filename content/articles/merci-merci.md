@@ -1,7 +1,7 @@
 +++
 date = "2014-11-08T00:00:00+02:00"
 title = "Merci Merci"
-rubriques =["Actualites"]
+rubriques =["Actualités"]
 +++
 d'avoir voté pour Urgence Afrique, le village d'Hanyigba Todji va bénéficier d'une bibliothèque pour les enfants d'une valeur de 5000 euros.
 

@@ -1,7 +1,7 @@
 +++
 date = "2014-11-08T00:00:00+02:00"
 title = "Courage et persévérance"
-rubriques =["deceptions"]
+rubriques =["Déceptions"]
 +++
 # Courage et persévérance, des alliés indispensables, à la pratique de l'ONG #
 
